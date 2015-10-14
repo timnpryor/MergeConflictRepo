@@ -1,1 +1,1 @@
-﻿This should cause a conflict
+﻿Git push from feature 2
